@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class MainController {
 
 	
-	@GetMapping({"/main--this"})
+	@GetMapping({"/main"})
 	public String mainPage() {
 		System.out.println("main 작동중 삐비빅~!");
 		return "/main";

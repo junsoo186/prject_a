@@ -16,7 +16,7 @@
     <div class="top--bar">
         <a href="#">Charging(AD)</a>
         <a href="#">Sign up</a>
-        <a href="#">Sign In</a>
+        <a href="/user/sign-in">Sign In</a>
         <!-- 프로필 -->
         <br>
     </div>
